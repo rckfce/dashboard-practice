@@ -208,7 +208,7 @@ input:focus {
 h3 {
     font-family: Roboto;
     position: absolute;
-    top: -5.0%;
+    top: -2rem;
 }
 
 .right-cards > h3:nth-of-type(2) {
